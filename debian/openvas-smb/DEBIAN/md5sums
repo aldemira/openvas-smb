@@ -1,0 +1,15 @@
+fac53861a4a804c3d8328b36cac63dba  usr/bin/winexe
+4ed7626368b9c6090c19435589627db2  usr/bin/wmic
+ce6f1905a5648aced8568d5cc5fe9943  usr/include/openvas/smb/openvas_smb_interface.h
+3181b70611c688f16384e2bd6e459ad4  usr/include/openvas/smb/openvas_wmi_interface.h
+4f9ce55970305f55773e9a684ac44ae8  usr/lib/libopenvas_wincmd.so.1.0.1
+dd6f7e1bbc343f0421f43793bcfba501  usr/lib/libopenvas_wmiclient.so.1.0.1
+c3627db2be7d1fcfe631080bb5b1a344  usr/lib/pkgconfig/libopenvas_wincmd.pc
+2bafe96847bc5c303bd130cd5c07b8bd  usr/lib/pkgconfig/libopenvas_wmiclient.pc
+493de9582ecb178c30325fb3d8f41135  usr/share/doc/openvas-smb/CHANGES
+cfeaf476e92d3b51806ef323ce4d3ca9  usr/share/doc/openvas-smb/INSTALL
+b64460ea614b4eca4d4fc5f8564846cd  usr/share/doc/openvas-smb/README
+4dcdbf2af007645b408da1d1207272ab  usr/share/doc/openvas-smb/README.Debian
+992b5a4835e241fbd686ac529f7804fe  usr/share/doc/openvas-smb/changelog.Debian.gz
+38ecc4862ca706db1cfb6d6ac5ed6401  usr/share/doc/openvas-smb/changelog.gz
+0f4ca3f03ee87c8011fe43cd48ef5ffb  usr/share/doc/openvas-smb/copyright

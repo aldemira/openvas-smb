@@ -1,0 +1,13 @@
+Source: openvas-smb
+Section: security
+Priority: optional
+Maintainer: Aldemir Akpinar <aldemir.akpinar@gmail.com>
+Build-Depends: debhelper (>= 9), cmake
+Standards-Version: 3.9.5
+Homepage: http://www.openvas.org
+
+Package: openvas-smb
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Command line tool to query WMI
+ This package contains a command line tool to query WMI

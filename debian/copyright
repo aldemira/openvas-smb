@@ -1,0 +1,103 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: openvas-smb
+Source: http://wald.intevention.org/frs/download.php/1975/openvas-smb-1.0.1.tar.gz
+
+Files: *
+Copyright: 2008-2010 Zenoss Inc.
+           2006 Andrzej Hajda <andrzej.hajda@wp.pl>
+	   1992-2003 Andrew Tridgell <tridgel@samba.org>
+	   2003-2006 Jelmer Vernooij <jelmer@samba.org>
+	   1998-2006 Kungliga Tekniska Högskolan
+	   1998 Red Hat Software
+	   1995-1998 Samba-Team
+  	   1991-2005 Free Software Foundation, Inc.
+	   1994 X Consortium
+	   1996-2002 John H Terpstra <jht@aquasoft.com.au>
+	   1999 The NetBSD Foundation, Inc.
+	   1995-1998,2004-2006 Volker Lendecke
+	   1992-2004 Jeremy Allison
+	   2001-2003 Jim McDonough <jmcd@us.ibm.com>
+	   2002-2005 Tim Potter <tpot@samba.org>
+	   1997-1998 University of Minnesota
+	   2001,2006 Steve French <sfrench@us.ibm.com>
+	   2001-2003 Martin Pool <mbp@samba.org>
+	   2001-2006 Andrew Bartlett <abartlet@samba.org>
+	   2003 James J Myers <myersjj@samba.org>
+	   2002,2005-2006 Fafal Szczesniak <mimir@samba.org>
+	   1998-2001 Francois Desarmenien
+	   2003-2006 Mbedthis Software, LLC
+	   2002-2006 Stefan Metzmacher <metze@samba.org>
+	   2001-2006 Simo Sorce
+	   1996-2001 Luke Kenneth Casson Leighton
+	   2002-2003 Luke Howard
+	   2003-2005 PADL Software Pty Ltd.
+	   2005 Gregory Leocadie <gleocadie@idealx.com>
+	   2005-2006 James Peach
+	   1997-2000 Paul Ashton
+	   2001 Remus Koos
+	   2001 Richard Sharpe
+	   1996-1997 Theodore Ts'o
+	   1995 Patrick Powell
+	   1995-2000 GoAhead Software
+	   1998-2001 Francois Desarmenien
+	   1999 Easy Software Products
+	   2005-2006 Brad Hendry <brad@samba.org>
+	   1988-1992 Richard Outerbridge
+	   2002 Concurrent Computer Corporation
+	   2004-2005 Metaparadigm Pte. Ltd.
+	   2004-2006 Derrell Lipman
+	   2005 Doug Rabson
+	   2006 Wilco Baan Hofman <wilco@bannhofman.nl>
+	   2002 Alexander Bokoyov
+	   2001 Andrew Esh
+	   2005-2006 Brad Hards <bradh@frogmouth.net>
+	   2000 Francesco Chemolli <kinkie@kame.usr.dsi.unimi.it>
+	   2002-2005 Geral Carter
+	   2005 Guenter Kukkukk
+	   2001 Igor Vergeichik <iverg@mail.ru>
+	   1998-2001 Jean Francois Micouleau
+	   1990-1998 Karl Auer
+	   2006 Martin Kuehl <mkhl@samba.org>
+	   1994-1995 Michael O'Brien
+	   2004 Nalin Dahyabhai
+	   2001 Nigel Williams
+	   2000 Paul 'Rusty' Russell
+	   2015 Greenbone Networks GmbH
+	   2009,2013 Intevation GmbH, http://www.intevation.net
+	   2009 SecPod, http://www.secpod.com
+
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+
+Files: debian/*
+Copyright: 2016 Aldemir Akpinar <aldemir.akpinar@gmail.com>
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
