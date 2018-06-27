@@ -1,1 +1,4 @@
 build/
+debian/openvas-smb*
+debian/.debhelper
+debian/debhelper-build-stamp

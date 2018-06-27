@@ -2,7 +2,7 @@ Source: openvas-smb
 Section: security
 Priority: optional
 Maintainer: Aldemir Akpinar <aldemir.akpinar@gmail.com>
-Build-Depends: debhelper (>= 9), cmake
+Build-Depends: debhelper (>= 9), cmake, gcc-mingw-w64, libgnutls28-dev,perl-base, heimdal-dev,libpopt-dev,libglib2.0-dev
 Standards-Version: 3.9.5
 Homepage: http://www.openvas.org
 

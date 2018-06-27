@@ -1,1 +1,3 @@
-openvas-smb_1.0.1-1_amd64.deb security optional
+openvas-smb-dbgsym_1.0.3-1_amd64.deb debug extra
+openvas-smb_1.0.3-1_amd64.buildinfo security optional
+openvas-smb_1.0.3-1_amd64.deb security optional
